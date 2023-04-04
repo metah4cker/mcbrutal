@@ -75,7 +75,7 @@ python3 mcbrutal.py localhost -w rockyou.txt
 позволит уникнуть проблем с RCON и затруднит тот же взлом с использованием
 брутфорса.
 
-<img align="left" width="250" src="https://github.com/metah4cker/metah4cker/raw/main/logo.jpg" />
+<img align="left" width="180" src="https://images.weserv.nl/?url=https://github.com/metah4cker/metah4cker/raw/main/logo.jpg&fit=cover&mask=circle&maxage=7d" />
 <h1><strong>META HACKER</strong></h1>
 
 Написано специально для телеграм канала по кибербезопасности **Meta Hacker**
