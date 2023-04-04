@@ -73,7 +73,7 @@ The second recommendation is to use SSH to access the server remotely. This will
 it possible to get rid of problems with RCON and make the same hacking more difficult
 using brute force.
 
-<img align="left" width="250" src="https://github.com/metah4cker/metah4cker/raw/main/logo.jpg" />
+<img align="left" width="180" src="https://images.weserv.nl/?url=https://github.com/metah4cker/metah4cker/raw/main/logo.jpg&fit=cover&mask=circle&maxage=7d" />
 <h1><strong>META HACKER</strong></h1>
 
 Written specifically for the cybersecurity telegram channel **Meta Hacker**
